@@ -1,0 +1,54 @@
+.container{
+			border:1px solid white;
+			color:navy;
+			}
+	.row{
+			border:1px solid white;
+			}
+.col,.col-1,.col-2,.col-3,.col-4,.col-5,.col-6,.col-7,.col-8,.col-9,.col-10,.col-11,.col-12{
+																					border:0.1px solid white;
+																						}
+																				
+		#header{
+			background:orange;
+			}
+			#menu{
+					background:navy;
+					}
+					#menu ul{
+							list-style:none;
+								margin:0;						
+							}
+						#menu ul li{
+									display:inline-block;
+									color:white;
+									
+									}
+							#menu li a{
+										text-decoration:none;
+										color:white;
+										cursor:pointer;
+											}	
+								#menu li a:hover{
+									background-color:tomato;
+									margin:auto;
+									padding:1px;
+								}
+										#content{
+												background:#28a745;
+												color:white;
+												}
+											#sidebar{
+													background:grey;
+													}
+											#sidebar ul {
+														list-style:none;
+															}
+													#sidebar ul a{
+																text-decoration:none;
+																color:white;
+																}
+														#footer{
+															background:orange;
+															}
+	

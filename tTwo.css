@@ -1,0 +1,12 @@
+.container{
+				border:4px solid yellow;
+				color:#17a2b8;
+				background-color:white;
+				}
+			.row{
+				border:3px solid green;		
+					}
+			.col{
+				border:2px solid tomato;
+				color:green;
+					}

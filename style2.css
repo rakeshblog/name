@@ -1,0 +1,25 @@
+.container{
+		border:2px solid darkred;
+		}
+	.row{
+		border:2px solid blue;	
+		}
+	.col,.col-1,.col-2,.col-3,.col-4,.col-5,.col-6,.col-7,.col-8,.col-9,.col-10,.col-11,.col-12{
+		border:2px solid red;
+	}
+	.blue{
+		background:blue;
+		color:white;
+	}
+	.green{
+		background:navy;
+		color:white;
+	}
+	.pink{
+			background:pink;
+			color:white;
+	}
+	.tomato{
+		background:tomato;
+		color:white;
+	}
